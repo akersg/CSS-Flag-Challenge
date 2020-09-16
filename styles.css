@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section {
+    width: 100vw;
+}
+div {
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
